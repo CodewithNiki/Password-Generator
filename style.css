@@ -42,7 +42,7 @@ form{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 12rem;
+    height: 15rem;
 }
 
 input[type= "number"]{
